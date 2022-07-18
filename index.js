@@ -1,3 +1,3 @@
-import * as merchant from "./getMerchant.js";
+import getMerchant from "./getMerchant";
 
-merchant();
+getMerchant()
