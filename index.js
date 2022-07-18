@@ -1,3 +1,3 @@
-import * as merchant from "./getMerchant.js";
+import * as merchant from "https://cdn.jsdelivr.net/gh/Folgress/LAM_ext/getMerchant.js";
 
 console.dir(import.meta)
