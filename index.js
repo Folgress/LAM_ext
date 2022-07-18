@@ -1,3 +1,3 @@
-import * as merchant from "getMerchant";
+import * as merchant from "./getMerchant";
 
 merchant();
