@@ -1,3 +1,3 @@
-import getMerchant from "./getMerchant";
+import getMerchant from "./getMerchant.js";
 
 getMerchant()
